@@ -1,0 +1,4 @@
+interface CardItem{
+    setElem : any;
+
+}
